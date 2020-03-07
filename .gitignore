@@ -1,0 +1,7 @@
+.IDEA
+*.IWS
+*.IML
+*.IPR
+
+LOGS/
+TARGET/
